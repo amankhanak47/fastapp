@@ -1,0 +1,27 @@
+.spin_page_color{
+        background: linear-gradient(180deg, #0093ff, #343a40, #0760a1, #ffffff)
+}
+#wheel{
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 30%; */
+}
+#canvas{
+    width: 100%;
+}
+
+.spin_main{
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+.spin_main p{
+    margin-bottom: 20px;
+}
